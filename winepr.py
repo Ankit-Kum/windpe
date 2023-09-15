@@ -3,3 +3,6 @@ print("adding the ref of delhi team")
 echo "hi wirte the name of wine"
 read name
 print("Name of the wine is $name")
+
+print("Done by github account to disc about pull and fetch")
+
