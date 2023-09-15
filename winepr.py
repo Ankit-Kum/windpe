@@ -9,6 +9,7 @@ sum=$(( $a + $b ))
  
 echo "Sum is: $sum"
 
+print ("hi i am dev2 ")
 print("this if for wine qulity pred model")
 
 print("Done by github account to disc about pull and fetch")
